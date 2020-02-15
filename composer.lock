@@ -55,12 +55,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ThingEngineer/PHP-MySQLi-Database-Class.git",
-                "reference": "03dbce1c7f1c9def315ad8ef52e1f5c0a806d6ed"
+                "reference": "9a95f2488495f13494e7c19ba7ad452946e947a7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ThingEngineer/PHP-MySQLi-Database-Class/zipball/03dbce1c7f1c9def315ad8ef52e1f5c0a806d6ed",
-                "reference": "03dbce1c7f1c9def315ad8ef52e1f5c0a806d6ed",
+                "url": "https://api.github.com/repos/ThingEngineer/PHP-MySQLi-Database-Class/zipball/9a95f2488495f13494e7c19ba7ad452946e947a7",
+                "reference": "9a95f2488495f13494e7c19ba7ad452946e947a7",
                 "shasum": ""
             },
             "require": {
@@ -92,7 +92,7 @@
                 }
             ],
             "description": "PHP MySQL Wrapper and object mapper which utilizes MySQLi and prepared statements",
-            "time": "2019-08-24T09:28:56+00:00"
+            "time": "2020-01-11T11:07:35+00:00"
         }
     ],
     "packages-dev": [],

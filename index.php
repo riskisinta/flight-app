@@ -23,7 +23,7 @@ if ( session_status() == PHP_SESSION_NONE ) {
 }
 
 // set database connection
-Flight::register('db', 'MysqliDb', array( 'localhost', 'root', '', 'deft__learn' ) );
+Flight::register('db', 'MysqliDb', array( 'localhost', 'root', '', 'login_umm' ) );
 
 Flight::route('/', function(){
 	if ( !isset( $_SESSION['user'] ) ) {
